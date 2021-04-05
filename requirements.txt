@@ -1,0 +1,4 @@
+pyyaml
+redis
+schedule
+ffmpeg-python

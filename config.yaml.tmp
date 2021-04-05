@@ -1,0 +1,7 @@
+redis_host: localhost
+redis_port: 6379
+redis_db: 0
+#stream_uri: https://cdn3.viblast.com/streams/hls/airshow/playlist.m3u8
+stream_uri: https://edge4.xmediaget.com/hls-live/xmlive/_definst_/5228922/5228922.m3u8                                                                                     
+files_dir: /Users/romanfedotov/code/pyramidtask/pyramidtask/pyramidtask/static/thumbs
+interval_sec: 15
